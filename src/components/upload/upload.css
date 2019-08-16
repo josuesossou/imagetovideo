@@ -1,0 +1,15 @@
+.labelWrapper {
+
+}
+label {
+    cursor: pointer;
+}
+span {
+    display: block;
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+input[type="file"] {
+    display: none;
+}

@@ -3,12 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.21",
+    "@fortawesome/free-solid-svg-icons": "^5.10.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
     "react-slideshow-image": "^1.2.2",
+    "react-speech": "^0.3.2",
+    "speak-tts": "^2.0.8",
     "tesseract.js": "^1.0.19",
-    "tesseract.ts": "^1.1.2"
+    "tesseract.ts": "^1.1.2",
+    "text-to-speech-js": "^1.1.9"
   },
   "scripts": {
     "start": "react-scripts start",
